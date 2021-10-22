@@ -5,6 +5,8 @@
 - 📫 How to reach me: guilhermecossarimattos@gmail.com
 - ⏳ I am 23 years old.
 - 📛 My badge from nlw origin: <a href="https://cossariguilherme.github.io/cracha-nlw/" target="_blank"><p>cossariguilherme.github.io/cracha-nlw/</p>
+  
+  ##
 
 <div align="center">
   <a href="https://github.com/CossariGuilherme">
