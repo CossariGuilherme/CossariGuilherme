@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning React and TypeScript
 - 📫 How to reach me: guilhermecossarimattos@gmail.com
 - ⏳ I am 23 years old.
-##- 📛 My badge from nlw origin: <a href="https://cossariguilherme.github.io/cracha-nlw/" target="_blank"><p>cossariguilherme.github.io/cracha-nlw/</p>
-  
-  
+- 📛 My badge from nlw origin: <a href="https://cossariguilherme.github.io/cracha-nlw/" target="_blank"><p>cossariguilherme.github.io/cracha-nlw/</p>
 
+  ##  
+  
 <div align="center">
   <a href="https://github.com/CossariGuilherme">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CossariGuilherme&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
