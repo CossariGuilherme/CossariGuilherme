@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on web development
 - 🌱 I’m currently learning React and TypeScript
 - 📫 How to reach me: guilhermecossarimattos@gmail.com
-- ⏳ I am 24 years old.
+- ⏳ I am 25 years old.
 - 📛 My badge from NLW-Heat Mission-Origin: <a href="https://cossariguilherme.github.io/cracha-nlw/" target="_blank"><p>https://cossariguilherme.github.io/Badge-NLW/</p> 
 
   ##
